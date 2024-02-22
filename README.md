@@ -21,4 +21,4 @@ Your program should compile successfully and start execution. It will prompt for
 
 ### Sample Inputs
 
-See [here](https://github.com/mrnimooy/AI_Planet_Internship_Assignment/blob/master/source_files/test_code) for sample inputs.
+See [here](https://github.com/mrinmooy/AI_Planet_Internship_Assignment/tree/master/source_files/test_code) for sample inputs.
