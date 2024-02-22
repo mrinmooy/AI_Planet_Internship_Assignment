@@ -24,7 +24,7 @@ g++ -std=c++14 -o assignment main.cpp -lpthread
 ```
 ./assignment
 ```
-Your program should compile successfully and start execution. It will prompt for user input on the terminal, enter your desired input and you shall receieve the output accordingly on the terminal itself.  
+Your program should compile successfully and start executing. It will prompt for user input on the terminal, enter your desired input and you shall receieve the output accordingly on the terminal itself.  
 
 ### Sample Inputs
 
