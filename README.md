@@ -5,9 +5,9 @@ This repository includes the documentation and source code files containing the 
 ## Table of Contents
 - [Description](#description)
 - [How to Run](#how-to-run)
-  - [Step 1: Download](#step-1)
-  - [Step 2: Naviagte](#step-2)
-  - [Step 3: Compile & Execute](#step-3)
+  - [Step 1: Download](#step-1-download)
+  - [Step 2: Naviagte](#step-2-navigate)
+  - [Step 3: Compile & Execute](#step-3-compile-&-execute)
 - [Sample Inputs](#sample-inputs)
 ## How to run:
 Assuming you already have an up-to-date g++ compiler installed on your system, here's a quickstart guide to execute this program.  
